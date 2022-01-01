@@ -28,7 +28,7 @@ twitter_username: arwen-tio
 github_username:  arwen-tio
 
 # Build settings
-theme: minima
+theme: jekyll-theme-time-machine
 plugins:
   - jekyll-feed
 
